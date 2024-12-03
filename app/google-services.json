@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500017310557",
+    "project_id": "nightguard-20cee",
+    "storage_bucket": "nightguard-20cee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500017310557:android:c5cdba8b158d1ff06916b4",
+        "android_client_info": {
+          "package_name": "com.sajla.nightguard_31"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAowGqr_o-70uIDd3oVaA_S8RVIOjjLleg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
